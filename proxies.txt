@@ -1,0 +1,2 @@
+#isi proxy klo mau pake klo ngga gausah diisi format proxy ky dibawah
+#http://user:pass@IP:PORT
